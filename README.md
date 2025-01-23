@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Yuliya and I'm an Angular developer with more than 2 years of expierence in software development.
+My name is Yuliya and I'm an Angular developer.
 
 🛠️ Skills: 
   * JavaScript, TypeScript
@@ -15,7 +15,6 @@ My name is Yuliya and I'm an Angular developer with more than 2 years of expiere
 
  📫 How to reach me:
  
- Telegram: [@jblaabb](https://t.me/jblaabb) \
  LinkedIn: https://www.linkedin.com/in/yuliyabialova/ \
  Email: yuliya.bialova@gmail.com
 
